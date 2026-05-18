@@ -1,118 +1,70 @@
 # Hi there, I'm Md Tanvir Mahmud Prince 👋
 
-### PhD Student in Electrical Engineering @ Virginia Tech
+### PhD Candidate in Electrical & Computer Engineering @ Virginia Tech
 
-**Machine Learning • Neuromorphic Computing • Photonic Neural Networks • Computer Vision**
+### Machine Learning • Neuromorphic Computing • Photonic Neural Networks • Computer Vision
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I am a PhD student in Electrical Engineering at Virginia Tech with research interests spanning:
+I am a PhD candidate in Electrical and Computer Engineering at Virginia Tech with research interests in:
 
 * Machine Learning & Deep Learning
-* Neuromorphic & Photonic Computing
-* Computer Vision & Image Processing
-* AI Model Optimization
-* Large Language Models (LLMs)
-* Explainable & Agentic AI Systems
-
-My academic background combines strong foundations in electrical engineering, electromagnetics, and intelligent systems with hands-on experience in AI research and development.
-
----
-
-## 🎓 Academic Background
-
-### Virginia Tech
-
-**PhD in Electrical Engineering**
-Spring 2026 – Present
-
-### Bangladesh University of Engineering and Technology (BUET)
-
-**M.Sc. in Electrical Engineering**
-Completed in 2024
-
-### Bangladesh University of Engineering and Technology (BUET)
-
-**B.Sc. in Electrical Engineering**
-
----
-
-# 🔬 Research Interests
-
+* Agentic AI Systems
+* Large Language Model (LLM) Interpretability
 * Neuromorphic Computing
 * Photonic Neural Networks
-* Deep Learning & CNNs
-* Transformers & LLMs
-* AI for Scientific Computing
+* Computer Vision & Image Processing
 * Explainable AI (XAI)
-* Computer Vision
-* Synthetic/Fake Image Detection
-* AI System Optimization
 
 ---
 
-# 🧠 Current Research & Projects
+# 🔬 What I’m Currently Working On
 
-## 📌 AI & Machine Learning
+## 🧠 Research Areas
 
-### 🔹 Multi-domain, Artifact-aware, and Explanation-integrated Universal Fake/Synthetic Image Detection Framework
+### 🔹 Agentic AI Systems with Small Language Models
 
-Research on robust synthetic image detection using explainable AI and artifact-aware learning strategies.
+Building lightweight autonomous AI systems with reasoning, planning, and tool-calling capabilities.
 
-### 🔹 Building and Evaluating Agentic AI Systems with Small Language Models
+### 🔹 LLM Interpretability & Mechanistic Understanding
 
-Developing lightweight autonomous AI systems using compact language models.
+Exploring transformer internal representations using activation patching, attention analysis, and circuit-level interpretability.
 
-### 🔹 Neural Archaeology: Decoding and Rewiring the Hidden Mind of Language Models
+### 🔹 Universal Fake/Synthetic Image Detection
 
-Research focused on interpretability, internal representations, and manipulation of LLM behavior.
+Developing artifact-aware and explanation-integrated systems for robust AI-generated image detection.
 
-### 🔹 Music Recommendation System using K-Nearest Neighbors
+### 🔹 Neuromorphic & Photonic Computing
 
-Implemented a recommendation pipeline using similarity-based machine learning techniques.
-
----
-
-# 📚 Publications
-
-### 📄 Automatic Detection Of COVID-19 And Other Pneumonia from Chest X-ray Images Using Convolutional Neural Networks
-
-**Authors:** Md Tanvir Mahmud Prince, M. Karim, F. Sadeque, M. Zahangir
-
-Published in:
-**6th Industrial Engineering and Operations Management Bangladesh Conference 2023**
-
-📌 Research Areas:
-
-* Medical Image Processing
-* Deep Learning
-* CNN-based Classification
-* Healthcare AI
-
-📄 DOI:
-[https://doi.org/10.46254/BA06.20230040](https://doi.org/10.46254/BA06.20230040)
+Investigating photonic neural architectures and hardware-efficient AI systems for next-generation intelligent computing.
 
 ---
 
-# 🛠 Technical Skills
+# 🛠 Tools & Technologies I Use
 
-## 💻 Programming Languages
+## 💻 Programming/ Markup Languages
 
 * Python
 * C
 * C++
 * Verilog
+* PHP
+* HTML
+* CSS
+* Javascript
 
 ## 🤖 Machine Learning & AI
 
-* TensorFlow
 * PyTorch
+* TensorFlow
+* HuggingFace Transformers
 * OpenCV
 * NumPy
+* JAX
 
-## ⚡ Engineering & Simulation Tools
+## ⚡ Engineering & Simulation
 
 * MATLAB
 * COMSOL
@@ -128,55 +80,86 @@ Published in:
 
 ---
 
-# 🌟 Areas of Interest
+# 📚 Publications & Research
 
-* Computer Vision for Automation
-* Object Detection
-* Recommendation Systems
-* AI Hardware Acceleration
-* Neuromorphic Architectures
-* Photonic AI Systems
+## 📄 Journal & Conference Publications
+
+### 1. Automatic Detection of COVID-19 and Other Pneumonia from Chest X-ray Images Using Convolutional Neural Networks
+
+* Medical image classification using CNNs
+* Deep learning-based healthcare AI
+* IEOM Bangladesh Conference 2023
+* DOI: [https://doi.org/10.46254/BA06.20230040](https://doi.org/10.46254/BA06.20230040)
+
+### 2. Comprehensive Analysis of Dual Core Photonic Crystal Fibers for Optimizing Optical Properties Towards Highly Coherent Supercontinuum Generation
+
+* Photonic crystal fiber optimization
+* Journal of Lightwave Technology (2023)
+* DOI: [https://doi.org/10.1109/JLT.2023.3264989](https://doi.org/10.1109/JLT.2023.3264989)
+
+### 3. An Optimized Dual Core Micro-structured Fiber for Splitting Applications at Communication Wavelengths
+
+* Optical communication & photonics
+* ICTP 2023
+* DOI: [https://doi.org/10.1109/ICTP60248.2023.10491074](https://doi.org/10.1109/ICTP60248.2023.10491074)
+
+### 4. Effect of Finite Length on the Band Gap of Semiconducting and Metallic Carbon Nanotube
+
+* Nanotechnology & semiconductor physics
+* ECCE 2019
+* DOI: [https://doi.org/10.1109/ECACE.2019.8679143](https://doi.org/10.1109/ECACE.2019.8679143)
+
+### 5. Adaptive & Optimized Load-Shedding for Blackout Prevention in an Islanded Low-Inertia Grid
+
+* Smart grid optimization & power systems
+* Annual Paper Meet 2025
+
+### 6. ABO Blood Group Classification Based on Image Processing
+
+* Biomedical image processing
+* IEEE Region 10 Humanitarian Technology Conference
 
 ---
 
-# 📈 GitHub Goals
+# 🧪 Featured Projects
 
-This GitHub profile documents my journey in:
+## 🔹 Multi-domain Fake/Synthetic Image Detection Framework
 
-* AI & ML Research
-* Neuromorphic Computing
-* Open-source Development
-* Research Prototyping
-* Experimental Deep Learning Systems
+Universal AI-generated image detection system integrating explainability and artifact-aware analysis.
 
-I will be regularly sharing:
+## 🔹 Building and Evaluating Agentic AI Systems
 
-* Research projects
-* ML experiments
-* Reproducible implementations
-* Tutorials & notebooks
-* Hardware-aware AI explorations
+Benchmarking autonomous AI agents using compact language models.
+
+## 🔹 Neural Archaeology
+
+Mechanistic interpretability research on transformer-based language models.
+
+## 🔹 Music Recommendation System with KNN
+
+Recommendation engine using similarity learning on audio feature embeddings.
 
 ---
 
-# 📫 Connect With Me
+# 🏆 Awards & Achievements
+
+* 🏆 Best Research Paper Award 2025 – Institution of Engineers Bangladesh (IEB)
+* 🎓 University Merit Award – BUET
+* 📜 Dean’s Merit List – BUET
+
+---
+
+# 📫 How to Reach Me
 
 📧 Email: `tanvir@vt.edu`
 
-### 🌐 Research Profiles
+🌐 LinkedIn:
 
-* Google Scholar:
-  [https://scholar.google.com/citations?hl=en&user=aNM7VWIAAAAJ](https://scholar.google.com/citations?hl=en&user=aNM7VWIAAAAJ)
+* linkedin.com/in/tm-prince
 
-* ORCID:
-  [https://orcid.org/0009-0004-7113-0651](https://orcid.org/0009-0004-7113-0651)
+📚 Research Profiles:
 
----
-
-# ⚡ Fun Fact
-
-I enjoy bridging the gap between:
-
-> **AI algorithms ↔ intelligent hardware ↔ photonic/neuromorphic systems**
-ML Researcher | Neuromorphic & Photonic AI | PhD @ Virginia Tech
+* Google Scholar: [https://scholar.google.com/citations?hl=en&user=aNM7VWIAAAAJ](https://scholar.google.com/citations?hl=en&user=aNM7VWIAAAAJ)
+* ORCID: [https://orcid.org/0009-0004-7113-0651](https://orcid.org/0009-0004-7113-0651)
+ech
 ```
